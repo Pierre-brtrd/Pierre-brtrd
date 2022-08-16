@@ -41,6 +41,14 @@ I'm a developer Fullstack with Symfony framework and I'm also teacher in web dev
 - 🌱 I’m currently learning Views.js and API REST
 - 💞️ I’m looking to collaborate on Symfony project
 
+## 🤝 Get in touch
+
+<p style="display:block">
+  <a href="https://www.linkedin.com/in/pierre-bertrand-webmarketeur/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/Pierre-brtrd/Pierre-brtrd/master/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/>
+  </a>
+</p>
+
 <!---
 Pierre-brtrd/Pierre-brtrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
