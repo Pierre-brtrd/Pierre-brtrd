@@ -4,6 +4,7 @@ I'm a developer Fullstack with Symfony framework and I'm also teacher in web dev
 
 ## 💼 Technical Skills
 <p>
+  <img src="https://img.shields.io/badge/Code-Symfony-brightgreen?style=flat&color=000000&logo=symfony&logoColor=000000" />
   <img src="https://img.shields.io/badge/Code-Php-blueviolet?style=flat&logo=php&color=787CB5" />
   <img src="https://img.shields.io/badge/Code-Twig-brightgreen?style=flat&color=AFC97E" />
   <img src="https://img.shields.io/badge/Code-Javascipt-blueviolet?style=flat&logo=javascript&color=yellow" />
