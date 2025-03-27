@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Pierre-brtrd
 
-I'm a developer Fullstack with Symfony framework and I'm also teacher in web development.
+I'm a developer Fullstack with Symfony and Sylius framework and I'm also teacher in web development.
 
 ## 💼 Technical Skills
 <p>
