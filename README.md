@@ -37,8 +37,6 @@ I'm a developer Fullstack with Symfony and Sylius framework and I'm also teacher
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-brtrd&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 ## Interest
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning VueJs, Flutter and API REST
