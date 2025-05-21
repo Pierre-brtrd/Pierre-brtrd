@@ -32,10 +32,12 @@ I'm a developer Fullstack with Symfony and Sylius framework and I'm also teacher
 
 <p>
   <a href="https://github.com/Pierre-brtrd">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pierre-brtrd&show_icons=true&theme=radical" alt="Pierre’s github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Pierre-brtrd&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage" alt="Pierre’s github stats"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-brtrd&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-brtrd&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## Interest
 - 👀 I’m interested in coding
