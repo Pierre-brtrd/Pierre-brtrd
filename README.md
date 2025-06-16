@@ -39,7 +39,7 @@ I'm a developer Fullstack with Symfony and Sylius framework and I'm also teacher
 
 ## Interest
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning VueJs, Flutter and API REST
+- 🌱 I’m currently learning VueJs, Flutter, RUST and API REST
 - 💞️ I’m looking to collaborate on Symfony project
 
 ## 🤝 Get in touch
